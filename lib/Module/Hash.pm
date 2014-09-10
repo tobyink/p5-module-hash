@@ -5,7 +5,7 @@ use strict;
 
 BEGIN {
 	$Module::Hash::AUTHORITY = 'cpan:TOBYINK';
-	$Module::Hash::VERSION   = '0.001';
+	$Module::Hash::VERSION   = '0.002';
 }
 
 use base qw( Tie::Hash );
